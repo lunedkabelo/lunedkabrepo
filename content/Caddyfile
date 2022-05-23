@@ -1,4 +1,4 @@
-# Created by wy580477 for customized container <https://github.com/wy580477>
+# Created by luned for customized container <https://github.com/lunedkabelo/lunedkabrepo>
 {
         log {
                 exclude http.handlers.reverse_proxy
